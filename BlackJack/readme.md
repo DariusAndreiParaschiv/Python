@@ -1,0 +1,1 @@
+Acesta este un joc de BlackJack făcut în python folosind framework-ul Tkinter pentru interfață, tot programul este secționat in 2 fișiere (frontend - BlackJack.py, backend - BJ.py). Pentru a porni jocul dați run la fișierul BlackJack.py 
