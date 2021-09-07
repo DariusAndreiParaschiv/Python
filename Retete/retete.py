@@ -143,8 +143,6 @@ class interf:
 ing = list(json.load(open(r"ingrediente.json"))) #lista de ingrediente
 ret = json.load(open(r"retete.json")) #lista de retete
 
-#modificare pt git
-
 #Fereastra de baza
 root = tk.Tk()
 root.title("Retete")
