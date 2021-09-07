@@ -140,8 +140,8 @@ class interf:
             if i == n:
                 self.t0.insert('end', ret[i])
 
-ing = list(json.load(open(r"Retete/ingrediente.json"))) #lista de ingrediente
-ret = json.load(open(r"Retete/retete.json")) #lista de retete
+ing = list(json.load(open(r"ingrediente.json"))) #lista de ingrediente
+ret = json.load(open(r"retete.json")) #lista de retete
 
 #Fereastra de baza
 root = tk.Tk()
